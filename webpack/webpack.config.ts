@@ -1,8 +1,7 @@
 import path from 'path';
 
 import HtmlWebpackPlugin from 'html-webpack-plugin';
-// tslint:disable-next-line:no-submodule-imports
-import VueLoaderPlugin from 'vue-loader/lib/plugin';
+import { VueLoaderPlugin } from "vue-loader";
 import webpack from 'webpack';
 
 const projectRoot = path.join(__dirname, '../');
