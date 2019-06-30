@@ -20,3 +20,8 @@ Package updates: ✔️  (*please QA to verify build output / watch / reloading 
 CI System: ✔️  (*get travis setup*)
 
 New feature / Loader: 🚫 (*please create a fork!*)
+
+Thanks
+------
+- https://github.com/microsoft/TypeScript-Vue-Starter/
+- https://vue-loader.vuejs.org/guide/#manual-setup
