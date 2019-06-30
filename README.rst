@@ -45,7 +45,9 @@ CI System: ✔️  (*get travis setup*)
 
 New feature / Loader: 🚫 (*please create a fork!*)
 
-Thanks
-------
-- https://github.com/microsoft/TypeScript-Vue-Starter/
+Thanks / Credits
+----------------
+- https://github.com/microsoft/TypeScript-Vue-Starter/ (reference,
+  tsconfig.json and placeholder Vue components only this starter is
+  *not derived* from it)
 - https://vue-loader.vuejs.org/guide/#manual-setup
