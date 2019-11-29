@@ -37,7 +37,7 @@
     "vue": "^2.6.10",
     "vue-class-component": "^7.1.0",
     "vue-loader": "^15.7.0",
-    "vue-property-decorator": "^8.2.1",
+    "vue-property-decorator": "^8.3.0",
     "webpack": "^4.35.0"
   }
 }
