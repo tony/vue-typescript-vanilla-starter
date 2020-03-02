@@ -38,6 +38,6 @@
     "vue-class-component": "^7.2.3",
     "vue-loader": "^15.9.0",
     "vue-property-decorator": "^8.4.0",
-    "webpack": "^4.41.6"
+    "webpack": "^4.42.0"
   }
 }
