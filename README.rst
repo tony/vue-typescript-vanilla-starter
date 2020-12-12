@@ -33,6 +33,8 @@ Launch dev server on port 3092:
 
 ``npm run start -- --env.production``
 
+``npm run start -- --open``  Launch browser + build + watch files, http://localhost:3099
+
 .. _Webpack's environmental variables: https://webpack.js.org/guides/environment-variables/
 
 Contribution guidelines
